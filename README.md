@@ -8,7 +8,8 @@ My OS is Ventura 13.2.1 .
 I used conda to manage all of my packages.
 Packages used:
 
-scikit-learn              1.0.2            py37hae1ba45_1  
+scikit-learn              1.0.2            
+holoviews                 1.15.0           
 
 ---
 ## Installation
